@@ -1,5 +1,5 @@
-# C++ Vcpkg Cmake Example
-A C++ sample project that is platform and IDE agnostic made possible by using vcpkg and cmake.
+# C++ Vcpkg CMake Example
+A C++ sample project that is platform and IDE agnostic made possible by using Vcpkg and CMake.
 
 # Building
 These steps assume you have correctly installed `vcpkg` and `cmake`.
