@@ -14,5 +14,7 @@ Tweak any step if it isn't on point.
 
 # Installing and Setting up Vcpkg (Video)
 <a href=https://youtu.be/FeBzSYiWkEU>
-  <img width=75% src="https://img.youtube.com/vi/FeBzSYiWkEU/maxresdefault.jpg" alt="Installing Libraries in C++ via CMake and Vcpkg" align="center"/>
+  <p align="center">
+    <img width=75% src="https://img.youtube.com/vi/FeBzSYiWkEU/maxresdefault.jpg" alt="Installing Libraries in C++ via CMake and Vcpkg"/>
+  </p>
 </a>
