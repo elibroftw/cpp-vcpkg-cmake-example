@@ -19,7 +19,13 @@ A C++ sample project that is platform and IDE agnostic made possible by using Vc
 
 Tweak any step if it isn't on point.
 
-# Installing and Setting up Vcpkg (Video)
+## Tutorials
+
+### [Blog Post] Installing Libraries for C++ with Vcpkg and CMake
+
+[https://blog.elijahlopez.ca/posts/vcpkg-cmake-tutorial/](https://blog.elijahlopez.ca/posts/vcpkg-cmake-tutorial/)
+
+### [Youtube Video] Installing and Setting up Vcpkg
 
 <a href=https://youtu.be/FeBzSYiWkEU>
   <p align="center">
