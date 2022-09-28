@@ -1,7 +1,7 @@
 ﻿# CMakeList.txt : CMake project for CMakeProject4, include source and define
 # project specific logic here.
 #
-cmake_minimum_required (VERSION 3.22)
+cmake_minimum_required (VERSION 3.21)
 
 # set($ENV{VCPKG_MANIFEST_MODE} OFF)
 set(VCPKG_MANIFEST_MODE OFF)
